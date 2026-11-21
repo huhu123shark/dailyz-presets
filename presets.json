@@ -1,0 +1,65 @@
+[
+  {
+    "id": "duolingo",
+    "title": "Duolingo",
+    "keywords": ["duolingo", "langue", "language", "apprendre", "learn", "anglais", "english", "espagnol", "spanish"],
+    "url": "https://www.duolingo.com/learn",
+    "durationMinutes": 5
+  },
+  {
+    "id": "chess-puzzles",
+    "title": "Problèmes Chess.com",
+    "keywords": ["chess.com", "chess", "echecs", "échecs", "puzzles", "problemes", "problèmes", "tactique", "tactics"],
+    "url": "https://www.chess.com/puzzles",
+    "durationMinutes": 10
+  },
+  {
+    "id": "lichess-training",
+    "title": "Lichess Training",
+    "keywords": ["lichess", "training", "entrainement", "entraînement", "puzzles", "echecs", "échecs", "chess"],
+    "url": "https://lichess.org/training",
+    "durationMinutes": 10
+  },
+  {
+    "id": "seterra",
+    "title": "Seterra Géographie",
+    "keywords": ["seterra", "geographie", "géographie", "geography", "carte", "map", "quiz", "drapeaux", "flags"],
+    "url": "https://www.geoguessr.com/seterra",
+    "durationMinutes": 5
+  },
+  {
+    "id": "kwiziq",
+    "title": "Kwiziq",
+    "keywords": ["kwiziq", "lawlessfrench", "french", "francais", "français", "grammaire", "grammar", "conjugaison"],
+    "url": "https://progress.lawlessfrench.com/dashboard",
+    "durationMinutes": 10
+  },
+  {
+    "id": "winamax",
+    "title": "Winamax",
+    "keywords": ["winamax", "poker", "paris", "sports", "betting"],
+    "url": "https://www.winamax.fr",
+    "durationMinutes": 15
+  },
+  {
+    "id": "wordle",
+    "title": "Wordle",
+    "keywords": ["wordle", "mot", "mots", "word", "words", "nyt", "new york times", "jeu"],
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "durationMinutes": 5
+  },
+  {
+    "id": "geoguessr",
+    "title": "GeoGuessr",
+    "keywords": ["geoguessr", "geo", "guessr", "monde", "world", "carte", "map", "geographie", "géographie"],
+    "url": "https://www.geoguessr.com",
+    "durationMinutes": 10
+  },
+  {
+    "id": "ankiweb",
+    "title": "AnkiWeb",
+    "keywords": ["anki", "ankiweb", "flashcards", "cartes", "revision", "révision", "memoire", "mémoire", "srs"],
+    "url": "https://ankiweb.net/decks",
+    "durationMinutes": 10
+  }
+]

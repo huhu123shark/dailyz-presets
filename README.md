@@ -33,7 +33,7 @@ permet de corriger ou d'enrichir les modèles sans publier une mise à jour.
   "id": "duolingo",
   "title": "Duolingo",
   "keywords": ["duolingo", "langue", "language", "apprendre", "learn"],
-  "url": "https://www.duolingo.com/learn",
+  "url": "https://www.duolingo.com",
   "durationMinutes": 5
 }
 ```
